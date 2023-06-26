@@ -1,0 +1,9 @@
+{
+	"name": "rcmDataFactoryPruebas",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4aa56b51-10ac-4b98-830d-cd85ab184c8a",
+		"tenantId": "f758bcba-fb70-4318-8752-be66ab8eebd3"
+	}
+}
